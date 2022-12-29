@@ -67,7 +67,7 @@ section{
     filter: invert(17%) sepia(90%) saturate(3000%) hue-rotate(900deg) brightness(100%) contrast(100%);
 }
 .option :where(span, label){
-    color: #5A6168;
+    color: #1c1c1c;
     padding-left: 10px;
 }
 .option:is(:hover, .active) :where(span,label){
